@@ -1,6 +1,10 @@
 [
-    {
-        "ip_address": "123.45.67.89",
-        "membership_end_date": "2024-12-31"
-    }
+  {
+    "ip_address": "123.45.67.89",
+    "membership_end_date": "2024-12-31"
+  },
+  {
+    "ip_address": "192.168.0.119",
+    "membership_end_date": "2024-07-18"
+  }
 ]
