@@ -10,5 +10,9 @@
   {
     "ip_address": "192.168.100.3",
     "membership_end_date": "2024-07-19"
+  },
+  {
+    "ip_address": "192.168.0.119",
+    "membership_end_date": "2024-07-20"
   }
 ]
